@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleMenu">
+        <attr name="radioChildDimen" format="float"/>
+        <attr name="radioCenterDimen" format="float"/>
+        <attr name="radioPadding" format="float"/>
+    </declare-styleable>
+</resources>
